@@ -9,8 +9,8 @@
     {
       "id": 2,
       "text": "Hacer las compras para la cena",
-      "day": "Febrero 10 a las 10:00",
-      "reminder": true
+      "day": "Febrero 10 a las 12:00",
+      "reminder": false
     },
     {
       "id": 3,
@@ -20,15 +20,15 @@
     },
     {
       "id": 4,
-      "text": "Leer mi Clean Code",
-      "day": "Febrero 5 a las 12:00",
-      "reminder": false
+      "text": "Leer un poquito del Clean Code",
+      "day": "Febrero 5 del 2030 a las 12:00",
+      "reminder": true
     },
     {
-      "id": 5,
-      "text": "Limpiar",
-      "day": "Febrero 8 a las 12:00",
-      "reminder": false
+      "text": "Holi Uma uwu",
+      "day": "Hoy",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
